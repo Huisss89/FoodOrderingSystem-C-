@@ -1,0 +1,24 @@
+1
+Coke Can          
+4.50
+2
+Coke Zero Can     
+4.50
+3
+Lipton Ice Tea Can
+5.50
+4
+Sprite Can        
+4.50
+5
+100 Plus Can      
+4.50
+6
+Mineral Water     
+4.00
+7
+Chocolate Milkshake
+12.90
+8
+Mango Milkshake    
+12.90

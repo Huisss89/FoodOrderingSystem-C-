@@ -1,0 +1,18 @@
+1
+Chicken Nuggets      
+8.50
+2
+Pop Chick             
+12.00
+3
+French Fries         
+6.50
+4
+Awesome Cheesy Fries 
+7.50
+5
+Awesome Cheesy Wedges
+8.50
+6
+Onion Rings          
+6.50

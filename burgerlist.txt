@@ -1,0 +1,24 @@
+1
+Ultimate American Cheeseburger (Beef Patty,American Cheese,BBQ Secret Aioli)                
+18.00
+2
+Classic Double Cheeseburger (Crispy Chicken Fillet,American Cheese,Sweet BBQ)               
+22.00
+3
+The Juicy Luzy Burger (Cheddar Cheese Stuffed Beef Patty,Carolina Mustard BBQ)              
+23.90
+4
+Pepperoni Pizza-Burger (Beef Patty,Beef Streaks, Pepperonis,Burger Sauce)                   
+23.00
+5
+Crazy Spicy Tendercrisp (Crispy Chicken Fillet,Chicken Streaks,Habanero Sauce)              
+20.00
+6
+Supreme Deluxe Tendercrisp (Beef Streaks,2xSharp Cheddar,BB Garlic Aioli)                   
+21.90
+7
+Smokehouse Chicken Club (Chicken Streaks,Swiss Cheese,BB Garlic Aioli)                      
+19.90
+8
+Meatless Chicken Royale Sandwich *Vegan* (Crispy Vegan Chiken Fillet,Vegan Cheese,Sweet BBQ)
+23.90
